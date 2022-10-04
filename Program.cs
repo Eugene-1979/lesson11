@@ -2,5 +2,10 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello");
+Console.WriteLine("Hello");Console.WriteLine("Hello");Console.WriteLine("Hello");
+var q=Console.ReadKey(true);
+
+
+
 
 
